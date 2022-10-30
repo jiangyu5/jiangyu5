@@ -1,0 +1,1 @@
+import{P as s}from"./ebcf19be.js";import{d as t,r as _,o as a,c as n,f as e,a as r,_ as c}from"./133dc8fc.js";const i={class:"memories"},d={class:"container"},m=t({__name:"indexMemories",setup(p){return(l,u)=>{const o=_("router-view");return a(),n("div",i,[e(s,{title:"\u8BB0\u5F55"}),r("div",d,[e(o)])])}}});const x=c(m,[["__scopeId","data-v-a1bfbb59"]]);export{x as default};

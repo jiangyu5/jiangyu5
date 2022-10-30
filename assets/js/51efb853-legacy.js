@@ -1,0 +1,1 @@
+System.register(["./90a2e269-legacy.js","./bdfcb1cc-legacy.js"],(function(e,t){"use strict";var c,s,a,u,n,d;return{setters:[e=>{c=e.P},e=>{s=e.d,a=e.o,u=e.c,n=e.f,d=e._}],execute:function(){const t={class:"about"};e("default",d(s({__name:"indexAbout",setup:e=>(e,s)=>(a(),u("div",t,[n(c,{title:"关于"})]))}),[["__scopeId","data-v-e5fb9ca6"]]))}}}));
