@@ -1,38 +1,10 @@
 {
-  "id": "3735061",
-  "name": "blog",
+  "id": "3737919",
+  "name": "wy",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
-    {
-      "icon_id": "5482996",
-      "name": "笔记",
-      "font_class": "biji1",
-      "unicode": "e696",
-      "unicode_decimal": 59030
-    },
-    {
-      "icon_id": "8680036",
-      "name": "MBE风格常用图标-本子",
-      "font_class": "biji",
-      "unicode": "e60c",
-      "unicode_decimal": 58892
-    },
-    {
-      "icon_id": "11372706",
-      "name": "搜索",
-      "font_class": "sousuo",
-      "unicode": "e8b9",
-      "unicode_decimal": 59577
-    },
-    {
-      "icon_id": "20784215",
-      "name": "关于",
-      "font_class": "guanyu",
-      "unicode": "e6bd",
-      "unicode_decimal": 59069
-    },
     {
       "icon_id": "5661144",
       "name": "图片",
@@ -74,6 +46,97 @@
       "font_class": "fenlei1",
       "unicode": "e669",
       "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "8680036",
+      "name": "MBE风格常用图标-本子",
+      "font_class": "biji",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "11372706",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "20784215",
+      "name": "关于",
+      "font_class": "guanyu",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "5482996",
+      "name": "笔记",
+      "font_class": "biji1",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "30783176",
+      "name": "收藏",
+      "font_class": "xingxing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "30783177",
+      "name": "修改",
+      "font_class": "shuben",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "30783180",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "30783181",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "30783182",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "30783185",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "30783187",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "30783188",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "30783192",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
     }
   ]
 }
