@@ -1,1 +1,0 @@
-import{_ as o,r as t,o as s,c,f as _,w as a,l as r}from"./133dc8fc.js";const n={},i={class:"memories-nav"};function d(l,m){const e=t("router-link");return s(),c("div",i,[_(e,{to:{path:"/wyxk/memories/said"}},{default:a(()=>[r("\u7F8E\u597D\u7684\u6587\u5B57")]),_:1})])}const f=o(n,[["render",d],["__scopeId","data-v-cec6b989"]]);export{f as default};

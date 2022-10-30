@@ -1,0 +1,1 @@
+System.register(["./668a90a2-legacy.js","./6582ff03-legacy.js"],(function(e,t){"use strict";var a,s,c,l,r,n;return{setters:[e=>{a=e.P},e=>{s=e.d,c=e.o,l=e.c,r=e.f,n=e._}],execute:function(){const t={class:"gallery"};e("default",n(s({__name:"indexGallery",setup:e=>(e,s)=>(c(),l("div",t,[r(a,{title:"图库"})]))}),[["__scopeId","data-v-64a9d545"]]))}}}));

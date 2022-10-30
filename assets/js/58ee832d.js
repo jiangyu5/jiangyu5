@@ -1,0 +1,1 @@
+import{d as s,o as _,c as a,t as o,_ as n}from"./01fd0d57.js";const c={class:"page-title"},l=s({__name:"PageTitle",props:{title:null},setup(e){const t=e;return(p,i)=>(_(),a("div",c,o(t.title),1))}});const d=n(l,[["__scopeId","data-v-a9118350"]]);export{d as P};

@@ -1,0 +1,1 @@
+import{P as e}from"./58ee832d.js";import{d as a,o as t,c as _,f as o,_ as s}from"./01fd0d57.js";const n={class:"gallery"},c=a({__name:"indexGallery",setup(l){return(r,d)=>(t(),_("div",n,[o(e,{title:"\u56FE\u5E93"})]))}});const m=s(c,[["__scopeId","data-v-64a9d545"]]);export{m as default};
