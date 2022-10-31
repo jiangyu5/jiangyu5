@@ -1,1 +1,0 @@
-import{P as s}from"./d803a9f2.js";import{d as t,o as _,c as n,b as e,a,f as r,_ as c}from"./5681eeed.js";const i={class:"memories"},d={class:"container"},m=t({__name:"indexMemories",setup(p){return(l,u)=>{const o=r("router-view");return _(),n("div",i,[e(s,{title:"\u8BB0\u5F55"}),a("div",d,[e(o)])])}}});const x=c(m,[["__scopeId","data-v-56249517"]]);export{x as default};

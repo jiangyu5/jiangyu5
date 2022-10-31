@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3737919 */
-  src: url('iconfont.woff2?t=1667210145072') format('woff2'),
-       url('iconfont.woff?t=1667210145072') format('woff'),
-       url('iconfont.ttf?t=1667210145072') format('truetype');
+  src: url('iconfont.woff2?t=1667221858416') format('woff2'),
+       url('iconfont.woff?t=1667221858416') format('woff'),
+       url('iconfont.ttf?t=1667221858416') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-light:before {
+  content: "\e632";
+}
+
+.icon-dark:before {
+  content: "\e666";
 }
 
 .icon-fanhuidingbu:before {

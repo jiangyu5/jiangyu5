@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "398280",
+      "name": "白天模式，明亮模式",
+      "font_class": "light",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "11734519",
+      "name": "dark,夜间模式,黑夜模式,深色模式,暗黑模式",
+      "font_class": "dark",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
       "icon_id": "1440886",
       "name": "返回顶部 ",
       "font_class": "fanhuidingbu",
