@@ -1,0 +1,1 @@
+System.register(["./1c12e811-legacy.js","./ff702758-legacy.js"],(function(e,t){"use strict";var s,c,a,u,n,i;return{setters:[e=>{s=e.P},e=>{c=e.d,a=e.o,u=e.c,n=e.b,i=e._}],execute:function(){const t={class:"about"};e("default",i(c({__name:"indexAbout",setup:e=>(e,c)=>(a(),u("div",t,[n(s,{title:"关于"})]))}),[["__scopeId","data-v-e5fb9ca6"]]))}}}));

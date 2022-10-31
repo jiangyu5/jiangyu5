@@ -1,1 +1,0 @@
-import{P as e}from"./58ee832d.js";import{d as t,o,c as _,f as a,_ as s}from"./01fd0d57.js";const c={class:"about"},n=t({__name:"indexAbout",setup(d){return(r,i)=>(o(),_("div",c,[a(e,{title:"\u5173\u4E8E"})]))}});const f=s(n,[["__scopeId","data-v-e5fb9ca6"]]);export{f as default};
