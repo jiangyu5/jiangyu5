@@ -1,1 +1,0 @@
-System.register(["./1513642f-legacy.js"],(function(e,t){"use strict";var n,r,s;return{setters:[e=>{n=e._,r=e.o,s=e.c}],execute:function(){const t={class:"navigation"};e("default",n({},[["render",function(e,n){return r(),s("div",t," 导航 ")}],["__scopeId","data-v-6ad62179"]]))}}}));
