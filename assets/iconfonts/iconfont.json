@@ -6,18 +6,25 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "739034",
-      "name": "loading",
-      "font_class": "loading1",
-      "unicode": "e61f",
-      "unicode_decimal": 58911
+      "icon_id": "4844663",
+      "name": "天气-雨后彩虹",
+      "font_class": "tianqi-yuhoucaihong",
+      "unicode": "e651",
+      "unicode_decimal": 58961
     },
     {
-      "icon_id": "2861028",
-      "name": "Loading",
-      "font_class": "loading",
-      "unicode": "e65d",
-      "unicode_decimal": 58973
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    },
+    {
+      "icon_id": "13547867",
+      "name": "爱心",
+      "font_class": "aixin1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
     },
     {
       "icon_id": "398280",
