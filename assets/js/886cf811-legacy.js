@@ -1,1 +1,0 @@
-System.register(["./eda70a13-legacy.js","./cbd0931a-legacy.js"],(function(e,t){"use strict";var a,s,c,u,d,n;return{setters:[e=>{a=e.P},e=>{s=e.d,c=e.o,u=e.c,d=e.b,n=e._}],execute:function(){const t={class:"about"};e("default",n(s({__name:"indexAbout",setup:e=>(e,s)=>(c(),u("div",t,[d(a,{title:"关于"})]))}),[["__scopeId","data-v-e5fb9ca6"]]))}}}));
