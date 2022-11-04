@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as a}from"./7f1ab414.js";const n={},t={class:"navigation"};function o(c,s){return _(),a("div",t," \u5BFC\u822A ")}const d=e(n,[["render",o],["__scopeId","data-v-6ad62179"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,x as _,y as c,a}from"./7f1ab414.js";const d={},n=e=>(_("data-v-b5afb8fd"),e=e(),c(),e),p={class:"about"},f=n(()=>a("h2",null,"\u5173\u4E8E",-1)),r=[f];function i(e,u){return t(),s("div",p,r)}const l=o(d,[["render",i],["__scopeId","data-v-b5afb8fd"]]);export{l as default};
